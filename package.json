@@ -19,7 +19,7 @@
   "dependencies": {
     "array-index": "1",
     "debug": "4",
-    "ref": "lxe/ref#node-12"
+    "ref": "github:torder-dev/ref#node-12"
   },
   "devDependencies": {
     "bindings": "1",
